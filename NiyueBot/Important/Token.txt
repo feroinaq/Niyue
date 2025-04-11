@@ -1,4 +1,4 @@
-MTMzODkyMjUxMzM2NzA0MDE4Mw.Gvxxl0.XIYT_LBaqw9XqRs_ZcR1kN6lg7uG42QxaQzBWM
+*********************************
 
 TokenFile = open("Z:\DiscordBot\Important\Token.txt", "r", encoding="utf-8")
 Token = TokenFile.read()
